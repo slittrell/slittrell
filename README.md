@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slittrell
-- 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning SQL, HTML/CSS
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Software Engineering, Backend Engineering, UI/UX Design
+- 🌱 I’m currently learning SQL, HTML/CSS, React.js, Django
+- 💞️ I’m looking to collaborate on independent technology projects that utilize basic database design & app development strategies
 - 📫 How to reach me: samuel.littrell@berkeley.edu
 
 <!---
